@@ -1,6 +1,4 @@
 ## Grupo 7
-Link ZOOM Slot 5: https://videoconf-colibri.zoom.us/j/87585381703
-
 **Drive**:<br/>
 - [Relatório](https://docs.google.com/document/d/1F14r7k54XJ3Kmzq6IZxJsG_Xur3vkzZY/edit)<br/>
 - [Croqui Laboratório](https://docs.google.com/document/d/1Lv8bhDtPm4bYxZKTBfCdPttEHuGRpBRA/edit)<br/>
